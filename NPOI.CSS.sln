@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D3C5B8FE-1203-454C-A46A-24BF0BB6D5F1}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI1.CSS", "for NPOI 1.2.5\NPOI1.CSS.csproj", "{9A1D52DC-2909-4F3E-AA32-23C67B8EEA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI2.CSS", "for NPOI 2.0\NPOI2.CSS.csproj", "{6960923C-2D8F-430B-B6A7-FAD63B12BDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1D52DC-2909-4F3E-AA32-23C67B8EEA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1D52DC-2909-4F3E-AA32-23C67B8EEA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1D52DC-2909-4F3E-AA32-23C67B8EEA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1D52DC-2909-4F3E-AA32-23C67B8EEA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6960923C-2D8F-430B-B6A7-FAD63B12BDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6960923C-2D8F-430B-B6A7-FAD63B12BDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6960923C-2D8F-430B-B6A7-FAD63B12BDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6960923C-2D8F-430B-B6A7-FAD63B12BDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
