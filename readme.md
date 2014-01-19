@@ -1,5 +1,7 @@
 NPOI.CSS用法
 ------------------
+目前，本扩展只支持.NET4及以上版本的项目，低版本的暂时不支持，请见谅。
+
 1. 引用NPOI.CSS.dll
 2. `using NPOI.CSS;`
 3. `cell.CSS("color:red;font-weight:bold;font-size:11;font-name:宋体;border-type:thin;")`
