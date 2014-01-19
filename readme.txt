@@ -4,12 +4,12 @@ font-underline
 	none					无下划线
 	single					单下划线
 	double					双下划线
-	single_accounting		会计用单下划线
-	double_accounting		会计用双下划线
+	single_accounting			会计用单下划线
+	double_accounting			会计用双下划线
 ---------------------------------------------
 font-superscript
 	none					无
-	sub						下标
+	sub					下标
 	super					上标
 ---------------------------------------------
 颜色值
@@ -101,33 +101,33 @@ font-strikeout的值为true/false
 ---------------------------------------------
 cssKey支持缩写别名：
 	color			font-color
-	fc				font-color
+	fc			font-color
 
-	fw				font-weight
+	fw			font-weight
 
-	fn				font-name
+	fn			font-name
 
-	fs				font-size
+	fs			font-size
 
 	italic			font-italic
-	i				font-italic
+	i			font-italic
 
 	underline		font-underline
-	u				font-underline
+	u			font-underline
 
 	deleteline		font-strikeout
 	d-line			font-strikeout
 	strikeout		font-strikeout
-	d				font-strikeout
+	d			font-strikeout
 
 	font-offset		font-superscript
 	superscript		font-superscript
-	fss				font-superscript
-	ss				font-superscript
+	fss			font-superscript
+	ss			font-superscript
 
 	bg-color		background-color
 	bg-c			background-color
-	bgc				background-color
+	bgc			background-color
 
 	align			text-align
 
