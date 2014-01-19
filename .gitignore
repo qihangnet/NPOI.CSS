@@ -150,7 +150,7 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
-# packages/
+packages/
 
 Itmeze.Web/uploads/*
 
