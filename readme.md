@@ -38,7 +38,7 @@ NPOI.CSS用法
 -	distributed
 
 
-## 边框样式 boder-type
+## 边框样式 border-type
 -	none
 -	thin
 -	medium
