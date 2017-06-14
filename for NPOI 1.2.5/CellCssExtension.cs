@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace NPOI.CSS
 {
-    public static class CellCss
+    public static class CellCssExtension
     {
         private const string defaultFontStyle = "font-color:black;font-name:Arial;font-size:10;font-weight:normal;font-underline:none;font-italic:false;font-strikeout:false;font-superscript:none;";
 
