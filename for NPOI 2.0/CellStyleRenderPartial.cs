@@ -92,6 +92,7 @@ namespace NPOI.CSS
                 case "DARK_GREEN":
                 case "DARKGREEN":
                     return 58;
+
                 case "DARK_RED":
                 case "DARKRED":
                     return 37;
@@ -109,6 +110,7 @@ namespace NPOI.CSS
 
                 case "GREEN":
                     return 17;
+
                 case "GREY_25_PERCENT":
                 case "GREY25PERCENT":
                     return 22;

@@ -1,5 +1,4 @@
 ﻿using NPOI.SS.UserModel;
-using System;
 using System.Collections.Generic;
 
 namespace NPOI.CSS
@@ -104,7 +103,7 @@ namespace NPOI.CSS
 
         public static void TextAlign(this ICellStyle style, IWorkbook wb, string v)
         {
-            style.Alignment =v.ConvertToHorizontalAlignment();
+            style.Alignment = v.ConvertToHorizontalAlignment();
         }
 
         #endregion text-align
@@ -186,6 +185,5 @@ namespace NPOI.CSS
         }
 
         #endregion data-format
-
     }
 }

@@ -1,9 +1,5 @@
-﻿using FastReflectionLib;
-using NPOI.HSSF.Util;
-using NPOI.SS.UserModel;
+﻿using NPOI.SS.UserModel;
 using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
 
 namespace NPOI.CSS
 {

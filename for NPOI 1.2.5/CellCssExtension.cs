@@ -24,7 +24,7 @@ namespace NPOI.CSS
                 cellStyle = GetCellStyle(cell, styleDic);
                 wb.AttachedCellStyle(cssKey, cellStyle);
             }
-            
+
             cell.CellStyle = cellStyle;
 
             return cell;//返回单元格方便流水式编程
